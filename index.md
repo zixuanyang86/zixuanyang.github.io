@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/zixuanyang86/zixuanyang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-This website holds my Python projects, math notes, and some academic writting.
+This website holds my Python projects, math notes, and some academic writings.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
